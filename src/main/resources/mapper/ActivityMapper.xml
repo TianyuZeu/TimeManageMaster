@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.tmm.dao.ActivityDao" >
+  <resultMap id="BaseResultMap" type="com.tmm.entity.Activity" >
+    <id column="ID" property="id" jdbcType="VARCHAR" />
+    <result column="CUSTOMER_ID" property="customerId" jdbcType="VARCHAR" />
+    <result column="SITE_ID" property="siteId" jdbcType="VARCHAR" />
+    <result column="ACTIVITY_NAME" property="activityName" jdbcType="VARCHAR" />
+    <result column="ACTIVITY_TIME" property="activityTime" jdbcType="TIMESTAMP" />
+    <result column="REMARK" property="remark" jdbcType="VARCHAR" />
+  </resultMap>
+
+  <insert id="insert" parameterType="com.tmm.entity.Activity" >
+
+    insert into ACTIVITY (ID, CUSTOMER_ID, SITE_ID, ACTIVITY_NAME, ACTIVITY_TIME, REMARK)
+    values (#{id,jdbcType=VARCHAR}, #{customerId,jdbcType=VARCHAR}, #{siteId,jdbcType=VARCHAR},
+            #{activityName,jdbcType=VARCHAR}, #{activityTime,jdbcType=TIMESTAMP}, #{remark,jdbcType=VARCHAR}
+            )
+  </insert>
+
+  <delete id="delete" parameterType="java.lang.String" >
+
+    delete from ACTIVITY
+    where ID = #{id,jdbcType=VARCHAR}
+  </delete>
+
+  <update id="update" parameterType="com.tmm.entity.Activity" >
+
+    update ACTIVITY
+    <set >
+      <if test="customerId != null" >
+        CUSTOMER_ID = #{customerId,jdbcType=VARCHAR},
+      </if>
+      <if test="siteId != null" >
+        SITE_ID = #{siteId,jdbcType=VARCHAR},
+      </if>
+      <if test="activityName != null" >
+        ACTIVITY_NAME = #{activityName,jdbcType=VARCHAR},
+      </if>
+      <if test="activityTime != null" >
+        ACTIVITY_TIME = #{activityTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="remark != null" >
+        REMARK = #{remark,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+
+  <select id="selectAll" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select *
+    from ACTIVITY
+  </select>
+
+  <select id="selectById" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select *
+    from ACTIVITY
+    where ID = #{id,jdbcType=VARCHAR}
+  </select>
+
+</mapper>

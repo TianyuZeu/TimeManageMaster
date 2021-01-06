@@ -1,0 +1,7 @@
+2021-01-04 16:49:32,590 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 12008 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-04 16:49:32,597 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-04 16:49:32,597 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-04 16:53:29,605 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 16244 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-04 16:53:29,612 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-04 16:53:29,613 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-04 16:53:38,106 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 9.454 seconds (JVM running for 11.684)

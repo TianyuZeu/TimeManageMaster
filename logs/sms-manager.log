@@ -1,0 +1,56 @@
+2021-01-06 18:25:35,173 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 5276 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 18:25:35,208 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 18:25:35,208 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 18:25:43,474 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 9.836 seconds (JVM running for 12.617)
+2021-01-06 19:06:37,982 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 13824 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:06:37,988 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:06:37,989 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:06:46,359 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 9.253 seconds (JVM running for 11.078)
+2021-01-06 19:16:19,269 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 8120 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:16:19,275 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:16:19,278 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:16:28,730 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 10.619 seconds (JVM running for 13.144)
+2021-01-06 19:20:46,118 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 17040 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:20:46,135 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:20:46,136 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:20:54,192 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 9.139 seconds (JVM running for 11.263)
+2021-01-06 19:23:00,713 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 9496 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:23:00,720 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:23:00,721 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:23:09,923 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 10.343 seconds (JVM running for 12.882)
+2021-01-06 19:26:16,677 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 15280 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:26:16,686 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:26:16,687 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:26:24,381 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 9.483 seconds (JVM running for 14.833)
+2021-01-06 19:33:46,256 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 12116 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:33:46,262 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:33:46,263 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:33:55,965 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 10.884 seconds (JVM running for 12.948)
+2021-01-06 19:38:15,646 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 11568 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:38:15,652 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:38:15,653 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:38:23,243 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 8.469 seconds (JVM running for 10.241)
+2021-01-06 19:49:10,913 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 16956 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:49:10,919 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:49:10,920 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:49:17,905 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 7.873 seconds (JVM running for 9.688)
+2021-01-06 19:53:33,201 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 17916 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:53:33,206 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:53:33,207 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:53:40,397 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 8.084 seconds (JVM running for 9.9)
+2021-01-06 19:57:18,683 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 12096 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 19:57:18,688 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 19:57:18,689 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 19:57:25,332 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 7.554 seconds (JVM running for 9.401)
+2021-01-06 19:57:50,986 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: insert into ACTIVITY (ID, CUSTOMER_ID, SITE_ID, ACTIVITY_NAME, ACTIVITY_TIME, REMARK ) values (?, ?, ?, ?, ?, ? )
+2021-01-06 19:57:51,034 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: 1(String), 1(String), 1(String), 上班(String), 2021-01-06T11:07:02(LocalDateTime), 没事儿(String)
+2021-01-06 20:01:55,999 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: insert into ACTIVITY (ID, CUSTOMER_ID, SITE_ID, ACTIVITY_NAME, ACTIVITY_TIME, REMARK ) values (?, ?, ?, ?, ?, ? )
+2021-01-06 20:01:56,001 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: 1(String), 1(String), 1(String), 上班(String), 2021-01-06T11:07:02(LocalDateTime), 没事儿(String)
+2021-01-06 20:01:56,072 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-01-06 21:06:58,772 INFO (StartupInfoLogger.java:55)- Starting TmmManagerApplication on C10-20201113UAI with PID 2752 (D:\idea-project\TimeManageMaster\target\classes started by Administrator in D:\idea-project\TimeManageMaster)
+2021-01-06 21:06:58,778 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+2021-01-06 21:06:58,779 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2021-01-06 21:07:05,791 INFO (StartupInfoLogger.java:61)- Started TmmManagerApplication in 7.904 seconds (JVM running for 9.625)
+2021-01-06 21:08:43,589 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: insert into ACTIVITY (ID, CUSTOMER_ID, SITE_ID, ACTIVITY_NAME, ACTIVITY_TIME, REMARK) values (?, ?, ?, ?, ?, ? )
+2021-01-06 21:08:43,655 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: 2(String), 1(String), 1(String), 回家(String), 2021-01-06T11:07:02(LocalDateTime), 开心(String)
+2021-01-06 21:08:43,735 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1

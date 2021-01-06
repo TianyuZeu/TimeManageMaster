@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.tmm.dao.SiteDao" >
+  <resultMap id="BaseResultMap" type="com.tmm.entity.Site" >
+
+    <id column="ID" property="id" jdbcType="VARCHAR" />
+    <result column="SITE_TYPE" property="siteType" jdbcType="VARCHAR" />
+    <result column="SITE_NAME" property="siteName" jdbcType="VARCHAR" />
+  </resultMap>
+
+
+
+  <insert id="insert" parameterType="com.tmm.entity.Site" >
+
+    insert into SITE (ID, SITE_TYPE, SITE_NAME)
+    values (#{id,jdbcType=VARCHAR}, #{siteType,jdbcType=VARCHAR}, #{siteName,jdbcType=VARCHAR})
+  </insert>
+
+  <delete id="delete" parameterType="java.lang.String" >
+
+    delete from SITE
+    where ID = #{id,jdbcType=VARCHAR}
+  </delete>
+
+  <update id="update" parameterType="com.tmm.entity.Site" >
+
+    update SITE
+    <set >
+      <if test="siteType != null" >
+        SITE_TYPE = #{siteType,jdbcType=VARCHAR},
+      </if>
+      <if test="siteName != null" >
+        SITE_NAME = #{siteName,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+
+  <select id="selectAll" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select *
+    from SITE
+  </select>
+
+  <select id="selectById" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select *
+    from SITE
+    where ID = #{id,jdbcType=VARCHAR}
+  </select>
+
+
+</mapper>
