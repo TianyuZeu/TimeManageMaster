@@ -3,10 +3,10 @@ package com.tmm.entity;
 import lombok.Data;
 
 @Data
-public class SiteType {
+public class Employee {
 
     private String id;
 
-    private String description;
+    private String employeeName;
 
 }
